@@ -1,0 +1,1 @@
+# getir-android-kotlin-bootcamp-w5-assignment-mozandastan
